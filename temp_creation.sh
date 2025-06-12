@@ -9,3 +9,5 @@ curl --request POST \
   "isMultiPage": false
 }
 '
+#chmod +x temp_creation.sh
+#./temp_creation.sh
