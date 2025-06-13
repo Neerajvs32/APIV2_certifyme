@@ -7,6 +7,6 @@ curl -v --request POST \
 {
   "template_ID": "25012",
   "name": "karan ",
-  "email": "neerajsalehittal3235@gmail.com"
+  "email": "neeraj@certifyme.cc"
   }
 '
